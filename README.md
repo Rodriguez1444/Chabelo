@@ -1,5 +1,4 @@
-[index.html](https://github.com/user-attachments/files/22756411/index.html)
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -42,8 +41,7 @@
 
 
 
-[index2.html](https://github.com/user-attachments/files/22756430/index2.html)
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -158,8 +156,7 @@
 
 
 
-[index3.html](https://github.com/user-attachments/files/22756437/index3.html)
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
